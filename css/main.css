@@ -127,6 +127,10 @@ body{
   text-decoration: none;
 }
 
+.info-link:hover{
+  color: #2D314D;
+}
+
 .info-btn,
 .hero__info-btn
 {
